@@ -1,0 +1,302 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+}
+
+.box{
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.879);
+}
+
+/* .box i{
+    width: 100%;
+    height: 100%;
+    color: white;
+    font-size: 200%;
+
+} */
+
+.box1{
+    width: 20%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.247);
+    position: absolute;
+    left: 2%;
+    border: 2px solid rgba(255, 255, 255, 0.219) ;
+}
+
+
+
+.box1 h6{
+    color: white;
+    font-size: 250%;
+    font-weight: 200;
+    letter-spacing: 3px;
+    position:absolute;
+    left: 7%;
+    /* background-color: rgba(62, 130, 186, 0.678);x */
+    
+    
+
+}
+.box1 h1{
+    color: rgb(255, 255, 255);
+    /* padding: 20%; */
+    background-color: rgba(255, 255, 255, 0.452);
+    position: absolute;
+    top: 20%;
+    left: 40%;
+    font-size: 130%;
+    letter-spacing: 1px;
+
+}
+
+
+.box1 h2{
+    color: white;
+    /* padding: 20%; */
+    letter-spacing: 1px;
+    position: absolute;
+    top: 30%;
+    left: 40%;
+    font-size: 130%;
+}
+
+.box1 h3{
+     color: white;
+    /* padding: 20%; */
+    letter-spacing: 1px;
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    font-size: 130%;
+}
+
+.box1 h4{
+    color: white;
+    /* padding: 20%; */
+    letter-spacing: 1px;
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    font-size: 130%;
+
+}
+
+
+.box1 h5{
+    color: white;
+    /* padding: 20%; */
+    letter-spacing: 1px;
+    position: absolute;
+    top: 60%;
+    left: 40%;
+    font-size: 130%;
+
+}
+
+
+.body{
+    width: 90%;
+    height: 90%;
+    background-color: black;
+    position: absolute;
+    left: 6%;
+    top: 5%;
+    
+}
+
+/* .body img{
+    width: 30%;
+    height: 20%;
+}
+ */
+
+
+
+.box2{
+    width: 78%;
+    height: 30%;
+    background-color: black;
+    position: absolute;
+    left: 22%;
+    border: 2px solid rgba(255, 255, 255, 0.153);
+}
+
+
+
+.box3{
+    width: 25%;
+    height: 10%;
+    background-color: transparent;
+    position: absolute;
+    top: 30%;
+    left: 25%;
+    border-radius: 10px;
+    border: 2px solid rgba(255, 255, 255, 0.153);
+    
+}
+
+
+.box3 h1{
+    color: white;
+    font-size: 120%;
+    position: absolute;
+    left: 25%;
+    top: 10%;
+}
+
+.box3 h2{
+    color: white;
+    font-size: 80%;
+    position: absolute;
+    top: 50%;
+    left: 25%;
+}
+
+.box3 i{
+    color: white;
+    position: absolute;
+    left: 5%;
+    top: 20%;
+    font-size: 170%;
+    border: 2px solid rgba(255, 255, 255, 0.153);
+    background-color: rgba(255, 255, 255, 0.221);
+}
+
+
+.box4{
+    width: 25%;
+    height: 10%;
+    background-color: rgb(42, 192, 82);
+    position: absolute;
+    top: 30%;
+    left: 60%;
+    border-radius: 10px;
+    border: 2px solid rgba(255, 255, 255, 0.153);
+    background-color: transparent;
+}
+
+
+.box4 h1{
+    color: white;
+    font-size: 120%;
+    position: absolute;
+    top: 10%;
+    left: 20%;
+}
+
+.box4 h2{
+    color: white;
+    font-size: 90%;
+    position: absolute;
+    top: 50%;
+    left: 20%;
+}
+
+
+
+
+
+.box2{
+    width: 15%;
+    height: 15%;
+    background-image: url(https://imgs.search.brave.com/m0G4TwJlOHPAH9KaUbuZp8H0MpmYe7vVaqaGeYvcy2w/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXItaG91c2Uu/Y29tL2RhdGEvb3V0/LzQvd2FsbHBhcGVy/MnlvdV8zMTQxNC5q/cGc);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+.box2 h1{
+    width: 100%;
+    color: white;
+    position: absolute;
+    left: 120%;
+    top: 12%;
+    
+}
+
+.box2 h5{
+    width: 100%;
+    color: white;
+    position: absolute;
+    left: 120%;
+    top: 50%;
+    
+}
+
+.box2 h4{
+    
+    width: 100%;
+    color: white;
+    font-size: 200%;
+    position: absolute;
+    left: 30%;
+    top: 320%;
+        
+    
+}
+.box2 h3{
+    width: 100%;
+    color: white;
+    font-size: 200%;
+    position: absolute;
+    top: 120%;
+    left: 30%;
+
+}
+
+.box2 button{
+    width: 70%;
+    height: 30%;
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+    background-color: rgba(152, 225, 231, 0.692);
+    letter-spacing: 3px;
+    position: absolute;
+    left: 420%;
+    top: 20%;
+    
+}
+.box4 i{
+    color: white;
+    position: absolute;
+    left: 5%;
+    top: 20%;
+    font-size: 170%;
+    border: 2px solid rgba(255, 255, 255, 0.153);
+    background-color: rgba(255, 255, 255, 0.221);
+}
+
+.box5{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(42, 192, 82);
+    position: absolute;
+    top: 300%;
+    left: 0%;
+    border-radius: 10px;
+    border: 2px solid rgba(255, 255, 255, 0.153);
+    background-color: transparent;
+
+}
+
+
+
+.box6{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(6, 169, 49);
+    position: absolute;
+    top: 300%;
+    left: -140%;
+    border-radius: 10px;
+    border: 2px solid rgba(255, 255, 255, 0.153);
+    background-color: transparent;
+}
